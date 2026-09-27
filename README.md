@@ -84,7 +84,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 <img width="1086" height="678" alt="image" src="https://github.com/user-attachments/assets/1a76d8db-e72b-4f1e-9edb-d5600303090d" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bdb3f82b-c429-44f5-a9a8-9e9e8f355219" />
+
+<img width="1280" height="1046" alt="image" src="https://github.com/user-attachments/assets/9a1b1c16-5781-4433-9726-7b71681aeeb4" />
 
 
   **TABULATION:**
@@ -102,7 +103,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 <img width="1186" height="1040" alt="image" src="https://github.com/user-attachments/assets/2d91e84b-1cc8-4e6f-a5b2-cfa77a22f516" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/acb64276-0d8c-4361-9520-53fafdd01ed2" />
+<img width="1280" height="1101" alt="image" src="https://github.com/user-attachments/assets/65f7c6e3-3ffd-4ec2-a683-47580e5a0326" />
 
 
   **TABULATION:**
@@ -118,7 +119,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
   **MODEL GRAPH:**
 <img width="1192" height="880" alt="image" src="https://github.com/user-attachments/assets/600c63ec-0c79-4c26-a1f2-97bbaa5f6f55" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/786e82bb-197d-4dba-bb9d-0ce8cbb5aaf5" />
+<img width="1280" height="848" alt="image" src="https://github.com/user-attachments/assets/54e65776-107c-43d8-89a1-d075d4d7194a" />
 
 
   **TABULATION:**
